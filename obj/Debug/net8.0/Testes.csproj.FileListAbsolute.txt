@@ -1,0 +1,14 @@
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\bin\Debug\net8.0\Testes.exe
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\bin\Debug\net8.0\Testes.deps.json
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\bin\Debug\net8.0\Testes.runtimeconfig.json
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\bin\Debug\net8.0\Testes.dll
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\bin\Debug\net8.0\Testes.pdb
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\obj\Debug\net8.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\obj\Debug\net8.0\Testes.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\obj\Debug\net8.0\Testes.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\obj\Debug\net8.0\Testes.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\obj\Debug\net8.0\Testes.dll
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\obj\Debug\net8.0\refint\Testes.dll
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\obj\Debug\net8.0\Testes.pdb
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\obj\Debug\net8.0\Testes.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Documentos\Visual Studio 2022\Projetos\Testes\obj\Debug\net8.0\ref\Testes.dll
